@@ -15,4 +15,11 @@
    2.1<hi>
   %*
  %*
+ %button*
+  %send.hover*
+   nothing
+  %*
+  %send.click*
+   %run.<runame>
+  %*
 %*
