@@ -1,0 +1,7 @@
+&runs*
+ userun.runame<
+  insert run code here
+ >
+/*
+&content*
+ %written.<hello>
