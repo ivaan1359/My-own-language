@@ -5,3 +5,13 @@
 /*
 &content*
  %written.<hello>
+ %normaltable*
+  %columns*
+   1.<setups>
+   2.<hi>
+  %*
+  %rows*
+   1.1<yes>
+   2.1<hi>
+  %*
+/*
