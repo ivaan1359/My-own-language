@@ -1,0 +1,11 @@
+%content*
+ %written.%text.size?heading<Lang>
+ %new.line
+ %button*<view>
+  %send.hover*
+   color.hue.2?down
+  %*
+  %send.click.1time*
+   web.old.<google.com>
+  %*
+%*
