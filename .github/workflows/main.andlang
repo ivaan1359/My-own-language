@@ -3,7 +3,7 @@
   insert run code here
  >
 /*
-&content*
+%content*
  %written.<hello>
  %normaltable*
   %columns*
@@ -14,4 +14,5 @@
    1.1<yes>
    2.1<hi>
   %*
-/*
+ %*
+%*
